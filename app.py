@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def pagina_inicial():
-    return "DevOps Lab - Valdir - Forçando erro"
+    return "DevOps Lab - Valdir"
