@@ -8,3 +8,4 @@ csrf = CSRFProtect(app)
 @app.route("/")
 def pagina_inicial():
     return "DevOps Lab - Valdir"
+
